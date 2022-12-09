@@ -1,4 +1,4 @@
-# Quick Start Into the Stochastic Network Calculus
+# Quick Start into the Stochastic Network Calculus
 
 ### What is it?
 
