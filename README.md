@@ -1,4 +1,4 @@
 # Quick Start to Stochastic Network Calculus
 
-In this short tutorial, we show how to obtain delay bounds in the stochastic network calculus (SNC) with moment-generating functions (MGF).
-arrivals and service are assumed to be $(\sigma, \rho)$-bounded, as it allows for closed-form solutions of all operators and performance bounds.
+The SNC Quick Start is a simple guide on how to implement the stochastic network calculus (SNC) with moment-generating functions (MGFs).
+It is a Jupyter Notebook that combines the mathematical background with an actual implementation in Python 3.
